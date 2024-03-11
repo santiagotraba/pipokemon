@@ -1,0 +1,17 @@
+.container-xl{
+  max-width: 1200px;
+  margin: auto;
+  padding: 1.5rem;
+  }
+
+  .pokemons-section{
+    background-color: rgb(67, 161, 208)
+  }
+
+  .navbar{
+    padding-top: 10px;
+  }
+
+  body{
+    background-color: rgb(67, 161, 208)
+  }

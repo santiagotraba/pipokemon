@@ -1,0 +1,9 @@
+.button-pagination{
+    background-color: yellow;
+    color: black;
+}
+
+.button-pagination:hover{
+    background-color: black;
+    color: white
+}
